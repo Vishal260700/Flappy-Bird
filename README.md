@@ -11,4 +11,4 @@ Flappy-Bird with managment portal to change parameters of the simulation like mu
 3. cmd or terminal 'live-server'
 
 # Demo
-live demo here - https://vishal260700.github.io/prototype/NEAT/
+live demo here - https://vishal260700.github.io/games/Flappy-Bird-Game/
